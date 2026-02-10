@@ -1,9 +1,9 @@
 # Data Analytics Portfolio
 
-This repository contains three data analytics projects showcasing:
-- Business performance analysis and executive dashboards
-- SQL driven business case analysis
-- Real world retail profitability analysis using messy, manually digitised data
+There are three data analytics projects here:
+- Business performance analysis 
+- SQL business case analysis
+- Retail profitability analysis by raw and messy data, digitised manually
 
 # Projects
 1. [ Business Performance Analysis](https://github.com/geeteshdax/Data-Analytics-Portfolio/tree/main/buisness-performance-analysis)
