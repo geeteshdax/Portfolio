@@ -19,7 +19,7 @@ The goal is to assist data driven decisions related to inventory focus and perfo
 # Key Analysis
 - Weighed key performance metrics such as total revenue, average order value, and total quantity sold
 - Reported product based revenue contribution
-- Evaluated sales trend over a certaion period of time
+- Evaluated sales trend over a certain period of time
 
 # Key Insights
 - Business seems to be generating steady revenue, with consistent number of transactions, indicating a stable demand.
