@@ -11,22 +11,22 @@ This inspection aims to support decisions that assists with pricing, inventory f
 3. Which categories shows high sales volume but low margins?
 4. How stable is the business across observed period?
 
-# Data Reality
+# Data Information
 - I have digitised the sales data in strucutured form as it was manually written in a accounts book.
 - Records vary in consistency and level of detail reflecting real operational constraints of a small retail business
 - For reliability purpose i limited the sales data to six months and standardized it into catgeory.
 
-# Dataset
+# Data Used
 - transactions.csv: Transaction-level sales data
 - product_master.csv: Standardized cost reference by category
 
 # Tools Used
-- Excel: Data digitization and profit calculations
-- SQL: Profitability and trend analysis
-- Power BI: Executive-level profitability dashboard
+- Excel for digitizing data and aggregations
+- SQL fro motnhly trend and profitability analysis
+- Power BI for executive level dashboard
 
 # Key Analysis
-- Calculated revenue, profit and profit margin at transaction level
+- Computed profit margins, profit and revenue
 - Aggregated performance by category to compare revenue vs profitability
 - Analyzed monthly revenue and profit trends to asses business stability
 - Identified categories with high sales volume but relatively lower profit contribution
