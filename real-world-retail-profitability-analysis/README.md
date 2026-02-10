@@ -1,9 +1,9 @@
-# Real World Retail Profitability Analysis
+# Retail Profitability Analysis
 
 # Overview
-This project analyzes six months of sales data from a small retail store. 
-The objective is to understand sales performance, profitability and category contribution using real world, manually recorded data.
-The analysis aim to support practical decisions related to pricing, inventory focus and business stability.
+This project includes six months of sales data from my retail shop. 
+Our main objective was to understand the sales performance, profitability and category contribution of the shop.
+This inspection aims to support decisions that assists with pricing, inventory focus and business stability.
 
 # Business Question
 1. Which categories generates the most revenue and profit?
@@ -12,9 +12,9 @@ The analysis aim to support practical decisions related to pricing, inventory fo
 4. How stable is the business across observed period?
 
 # Data Reality
-- Sales data was manually recorded in notebooks and later digitized into a structured format
+- I have digitised the sales data in strucutured form as it was manually written in a accounts book.
 - Records vary in consistency and level of detail reflecting real operational constraints of a small retail business
-- To ensure analytical reliability, data was standardized at category level and limited to a six month period
+- For reliability purpose i limited the sales data to six months and standardized it into catgeory.
 
 # Dataset
 - transactions.csv: Transaction-level sales data
