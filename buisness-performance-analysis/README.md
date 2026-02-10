@@ -1,26 +1,25 @@
 # Business Performance Analysis
-This project analyzes sales data to understand overall business performance, identify key revnue drivers and observe sales trend over time. 
-The goal is to support data-driven decisions related to inventory focus and performance monitoring.
+This project focuses on inspecting sales data to identify key revenue drivers, derive overall business performance and observe sales trend over time. 
+The goal is to assist data driven decisions related to inventory focus and performance monitoring.
 
-# Business Questions
-1. What is the overall sales performance of the buisness?
-2. Which product drives the most revenue?
-3. How does revenue change over time?
+# Business Problems Analyzed
+1. What's the comprehensive sales performance of the buisness?
+2. Which products compels the most to the overall revenue?
+3. Trends in revenue performance over the time?
 
-# Dataset
-- Sales dataset sourced from Kaggle
-- Structured transactional sales data
-- Includes product, category, quantity, price, and date information
+# Data Used
+- Transactional sales data 
+- Values such as date, product, price, and quantity 
 
 # Tools Used
-- Excel: Data exploration and pivot based analysis 
-- SQL: Quering and aggregating sales data
-- Power Bi: Dashboard creation and data visualization
+- Excel for Pivot based analysis and data exploration
+- SQL for Aggregating and quering sales data
+- Power Bi for Data visualization and dashboard creation
 
 # Key Analysis
-- Calculated key performance metrics such as total revenue, quantity sold, and average order value
-- Analyzed revenue contribution by product and category
-- Evaluated sales trends over time
+- Weighed key performance metrics such as total revenue, average order value, and total quantity sold
+- Reported product based revenue contribution
+- Evaluated sales trend over a certaion period of time
 
 # Key Insights
 - Business seems to be generating steady revenue, with consistent number of transactions, indicating a stable demand.
@@ -28,4 +27,4 @@ The goal is to support data-driven decisions related to inventory focus and perf
 - Overall the revenue is growing overtime, as indicated by the increasing cumulative revenue despite daily volatility.
 
 # Outcome
-The analysis provides a clear view of business performance and highlights areas for inventory focus and performance tracking using an interactive dashboard.
+This interpretation provides a clear view of how the business has performed and have highlighted areas for inventory focus and performance tracking using an interactive dashboard.
