@@ -30,21 +30,21 @@ Identifying concentration risks and high-impact segments.
 
 ## Projects
 
-### Retail Profitability Analysis
+### [real-world-retail-profitability-analysis](https://github.com/Geet232/Data-Analytics-Portfolio/tree/main/real-world-retail-profitability-analysis)
 Used real store transaction data to analyse revenue vs profit contribution across categories and recommend pricing and inventory adjustments.
 
 Demonstrates: working with messy real-world data and turning it into actionable decisions.
 
 ---
 
-### Business Performance Analysis
+### [ Business Performance Analysis](https://github.com/geeteshdax/Data-Analytics-Portfolio/tree/main/buisness-performance-analysis)
 Evaluated sales performance and trend behaviour to identify stable demand patterns and key revenue drivers.
 
 Demonstrates: operational monitoring and performance tracking.
 
 ---
 
-### SQL Business Case Analysis
+### [ SQL Business Case Analysis](https://github.com/Geet232/Data-Analytics-Portfolio/tree/main/sql-business-case-analysis)
 Answered business questions using SQL including customer contribution, category share and pricing inefficiencies.
 
 Demonstrates: analytical reasoning using structured queries.
@@ -72,7 +72,3 @@ I am transitioning into roles such as:
 
 Where understanding business behaviour matters as much as technical skills.
 
-# Projects
-1. [ Business Performance Analysis](https://github.com/geeteshdax/Data-Analytics-Portfolio/tree/main/buisness-performance-analysis)
-2. [ SQL Business Case Analysis](https://github.com/Geet232/Data-Analytics-Portfolio/tree/main/sql-business-case-analysis)
-3. [real-world-retail-profitability-analysis](https://github.com/Geet232/Data-Analytics-Portfolio/tree/main/real-world-retail-profitability-analysis)
