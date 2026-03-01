@@ -1,5 +1,3 @@
-# Data Analytics Portfolio
-
 # Decision Analytics Portfolio
 
 This portfolio demonstrates how data analysis supports real business decisions rather than reporting alone.
