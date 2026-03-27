@@ -1,6 +1,6 @@
 # Retail Revenue & Profitability Analysis
 
-## Context
+### Context
 I have been operating retail store operations for 2+years, below is an analysis from the store’s sales data to understand seasonal trend to improve profitability & revenue.
 
 ## Objective
