@@ -30,7 +30,7 @@ Identifying concentration risks and high-impact segments.
 
 ## Projects
 
-### [real-world-retail-profitability-analysis](https://github.com/Geet232/Data-Analytics-Portfolio/tree/main/real-world-retail-profitability-analysis)
+### [retail-revenue-and-profitability-analysis](https://github.com/Geet232/Portfolio/tree/main/retail-revenue-and-profitability-analysis)
 Used real store transaction data to analyse revenue vs profit contribution across categories and recommend pricing and inventory adjustments.
 
 Demonstrates: working with messy real-world data and turning it into actionable decisions.
