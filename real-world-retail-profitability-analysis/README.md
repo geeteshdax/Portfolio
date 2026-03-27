@@ -38,11 +38,3 @@ Overall profitability and revenue of the firm increased by 19% over a period of 
 ## Data Information
 - This sales data was digitized from a handwritten, raw sales accounting notebook.
 - For reliability purpose the sales data was limited to six months and has been standardized into categories.
-
-## Next Analysis On
-- To understand Inventory & shelf space for high volume products. 
-- Review pricing and sourcing strategies for high volume but lower margin categories to improve profitability.
-- Monitoring trends alongside revenue to avoid revenue led but profit negative decisions.
-
-## Outcome
-This project demonstrates the ability to work with messy real world data, apply defensible assumptions and deliever business focused insights.
