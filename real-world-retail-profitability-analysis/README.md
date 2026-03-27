@@ -24,7 +24,7 @@ The aim is to observe category performance, seasonal trends & profit variance to
 - Restructure the pricing of maintenance services, this will benefit the business with meaningful improvement in profits.
 
 ## Outcome
-Overall profitability and revenue of the firm increased by 19% over a period of 6months.
+- Overall profitability and revenue of the firm increased by 19% over a period of 6months.
 
 ## Data Used
 - transactions.csv: Transaction-level sales data
